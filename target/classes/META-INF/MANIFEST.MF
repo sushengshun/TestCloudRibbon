@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: TestCloudRibbon
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sss
+Implementation-Vendor-Id: om.sss
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/TestCloudRib
+ bon/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
